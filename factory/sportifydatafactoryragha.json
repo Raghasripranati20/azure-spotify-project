@@ -1,0 +1,15 @@
+{
+	"name": "sportifydatafactoryragha",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd3a74f2-6321-4d22-939a-a2d443db2700",
+		"tenantId": "c7ba3b4d-c742-4e47-b239-f09a4a687737"
+	}
+}
